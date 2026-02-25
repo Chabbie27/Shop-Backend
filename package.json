@@ -1,0 +1,1 @@
+{\n  "name": "shop-backend",\n  "version": "1.0.0",\n  "description": "Backend for Shop application using Node.js and Express",\n  "main": "server.js",\n  "scripts": {\n    "start": "node server.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1"\n  },\n  "author": "Chabbie27",\n  "license": "ISC"\n}
